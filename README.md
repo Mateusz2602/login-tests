@@ -43,9 +43,6 @@ project_root/
 
 ###  Instalacja zależności:
 
-bash
-pip install -r requirements.txt
-
 Uruchom wszystkie testy z raportem HTML:
 
 pytest --html=report.html
